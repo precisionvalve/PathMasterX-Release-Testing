@@ -11,10 +11,9 @@ assignees: ''
 
 ## Tests
 
-* Create
-* Delete
-* Move
-* Copy/Paste
-* Clone
-* Save/Load
-* Startup/Shutdown
+- [ ] Creation/Deletion
+- [ ] Move
+- [ ] Copy/Paste
+- [ ] Clone
+- [ ] Save/Load
+- [ ] Startup/Shutdown
