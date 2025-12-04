@@ -2,7 +2,7 @@
 name: Testing Unit
 about: A template to add a unit for future testing
 title: "[Unit Name]"
-labels: category
+labels: unit
 assignees: ''
 
 ---
